@@ -1,7 +1,6 @@
 # Metaheuristc_optimization
-Technique for doing feature selection
-<h1>WHAT IT DOES</h1>
-<p>
+Technique for doing feature selection.
+
 This project focuses on applying metaheuristic optimization algorithms to solve complex feature selection problems in machine learning. Feature selection is crucial to improving model accuracy and reducing computational cost by identifying the most relevant features from high-dimensional datasets.
 </p> 
 <H2>KEY HIGHLIGHTS</H2>
